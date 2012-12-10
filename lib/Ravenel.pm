@@ -1,6 +1,6 @@
 package Ravenel;
 
-$VERSION = 1.0;
+$VERSION = 1.1;
 
 use strict;
 use Ravenel::Document;
